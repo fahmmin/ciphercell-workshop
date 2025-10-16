@@ -1,61 +1,63 @@
-Table of Contents
+# CipherCell Workshop Resources
 
-Tools & Extensions
+A concise reference of all tools, links, and learning materials used during the CipherCell workshop. Each section explains the purpose of the listed resource.
 
-Development Environments
+---
 
-Utilities & Services
+## Table of Contents
+- [Tools & Extensions](#tools--extensions)
+- [Development Environments](#development-environments)
+- [Utilities & Services](#utilities--services)
+- [Learning & Reference](#learning--reference)
+- [Social / Follow CipherCell on X](#social--follow-ciphercell-on-x)
+- [Usage Notes](#usage-notes)
 
-Learning & Reference
+---
 
-Social / Follow CipherCell on X (Twitter)
+## Tools & Extensions
 
-Usage notes
+### [MetaMask (Chrome Extension)](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+Browser-based crypto wallet used to manage Ethereum-compatible accounts, sign transactions, and connect to decentralized applications (dApps).  
+**Use case:** Connect to Remix IDE or any workshop dApp for deploying and testing smart contracts.
 
-Tools & Extensions
-MetaMask (Chrome extension)
+---
 
-Link: https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
+## Development Environments
 
-Description: Browser extension wallet for interacting with Ethereum-compatible networks and dApps. Used to manage accounts, sign transactions, and connect to development environments.
+### [Remix — Ethereum IDE](https://remix.ethereum.org/)
+Web-based Solidity IDE for writing, compiling, testing, and deploying smart contracts.  
+**Use case:** Primary environment for contract development during the workshop.
 
-Development Environments
-Remix — Ethereum IDE
+### [LunaPump](https://lunapump.xyz/)
+A third-party Web3 dApp. Used for demonstration or interaction exercises during the session.  
+**Note:** Always verify trust and contract authenticity before transacting.
 
-Link: https://remix.ethereum.org/
+---
 
-Description: Web-based Solidity IDE for writing, compiling, testing, and deploying smart contracts. Useful for rapid prototyping and debugging contracts during the workshop.
+## Utilities & Services
 
-LunaPump
+### [Sniper.xyz](https://www.sniper.xyz/)
+Third-party Web3 service or analytics platform used for monitoring or interaction tasks within the workshop.  
+**Recommendation:** Review the platform documentation before providing wallet permissions or data.
 
-Link: https://lunapump.xyz/
+### [Google Cloud Web3 Faucet (Sepolia)](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
+Official faucet for obtaining **Sepolia testnet ETH**.  
+**Use case:** Fund test accounts used in smart contract deployments and testing.
 
-Description: (Third-party dApp / project) Provide context or specific use-case within the workshop depending on the lesson plan (e.g., demo dApp, token interaction). Verify trust and intent before interacting.
+---
 
-Utilities & Services
-Sniper.xyz
+## Learning & Reference
 
-Link: https://www.sniper.xyz/
+### [Blockchain Hash Demonstration — Anders Brownworth](https://andersbrownworth.com/blockchain/hash)
+Interactive educational tool explaining the concept of hashing and its importance in blockchain technology.  
+**Use case:** Understand cryptographic fundamentals before moving to hands-on blockchain operations.
 
-Description: (Third-party service) Platform that may offer trading, monitoring, or automation-related features. Use caution and review documentation before submitting keys or funds.
+---
 
-Google Cloud — Web3 Faucet (Sepolia)
+## Social / Follow CipherCell on X
 
-Link: https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+Stay connected with the CipherCell community and its members:
 
-Description: Hosted faucet service for obtaining test ETH on the Sepolia testnet. Useful for funding development accounts during contract testing and deployments.
-
-Learning & Reference
-Blockchain Hash Explanation — Anders Brownworth
-
-Link: https://andersbrownworth.com/blockchain/hash
-
-Description: Educational explanation of hashing and its role in blockchains. Good primer for cryptographic fundamentals discussed in the workshop.
-
-Social / Follow CipherCell on X (Twitter)
-
-CipherCell official: https://x.com/c1ph3rc3ll
-
-Fahmin : https://x.com/fahmin_md
-
-Bedekar Atharva : https://x.com/BedekarAtharva
+- **CipherCell Official:** [https://x.com/c1ph3rc3ll](https://x.com/c1ph3rc3ll)  
+- **Fahmin:** [https://x.com/fahmin_md](https://x.com/fahmin_md)  
+- **Bedekar Atharva:** [https://x.com/BedekarAtharva](https://x.com/BedekarAtharva)
