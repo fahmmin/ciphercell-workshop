@@ -52,6 +52,7 @@ Official faucet for obtaining **Sepolia testnet ETH**.
 Interactive educational tool explaining the concept of hashing and its importance in blockchain technology.  
 **Use case:** Understand cryptographic fundamentals before moving to hands-on blockchain operations.
 
+Detailed Blockchain Explanation : https://www.youtube.com/watch?v=bBC-nXj3Ng4
 ---
 
 ## Social / Follow CipherCell on X
